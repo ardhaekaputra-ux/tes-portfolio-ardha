@@ -18,3 +18,5 @@ This document tracks priority experts and one relevant video per expert focused 
 ## Output Files
 
 Detailed transcript-style strategy notes are saved in `research/youtube-transcripts/`, one file per expert.
+
+LinkedIn-oriented research (post themes, content strategy, B2B outreach insights) is saved in `research/linkedin-posts/`, one file per expert.

@@ -18,3 +18,12 @@ Here is the report for the portfolio project:
 ### 3. What issues you ran into and how you solved them
 * **Issue:** Since my background is heavily in B2B/B2G sales and not software engineering, navigating an IDE like Cursor and understanding Git operations (cloning, committing, pushing) was entirely new to me.
 * **Solution:** I utilized my research skills and adaptability. I read the Cursor documentation, used AI assistance to guide me through the UI, and carefully followed step-by-step instructions to successfully connect my local environment to GitHub. This proves my ability to learn new technical tools quickly and adapt to modern asynchronous workflows.
+
+### 4. Research phase started (B2B SaaS Cold Outreach)
+I have started a dedicated research phase for B2B SaaS cold outreach in the `research/` directory.
+
+The selected experts were chosen because they are proven practitioners in B2B SaaS sales, outbound prospecting, and growth execution. Their work combines real-world pipeline generation experience with practical frameworks for cold email, multi-channel outreach, and outreach automation.
+
+Research assets now include:
+- `research/sources.md` for the curated expert/video source list.
+- `research/youtube-transcripts/` for one strategy transcript/summary file per expert.
